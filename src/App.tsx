@@ -14,6 +14,20 @@ const App = () => (
         Hero
       </div>
     </div>
+
+    <div className={`bg-primary ${styles.paddingX} ${styles.flexStart}`}>
+      <div className={`${styles.boxWidth}`}>
+        stats
+        business
+        billing
+        cardDeal
+        Testimonials
+        Clients
+        CTA
+        Footer
+      </div>
+    </div>
+
   </div>
 );
 
