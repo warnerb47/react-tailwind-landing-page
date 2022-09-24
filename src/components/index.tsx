@@ -12,7 +12,7 @@ import Navbar from "./Navbar";
 import Stats from "./Stats";
 import Testimonial from "./Testimonial";
 
-export const components = {
+export {
     Billing,
     Business,
     Button,
